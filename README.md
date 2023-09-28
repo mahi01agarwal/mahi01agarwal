@@ -3,11 +3,11 @@
 <h2>About Me</h2>
 
 - 🌍 Location: Delhi, India
-- 💼 Current Position: Passionate about Technical Content Writer and Open Source Contributor
+- 💼 Current Position: Enthusiastic about AI/ML and Open Source.
 - 🎓 Education: Sophomore Student in Information Technology and Mathematics at Cluster Innovation Center,Delhi University
 - 🌱 I'm currently learning: Deep Learning,Web development.
 
-- 👨‍💻 Most of my projects are available at [my portfolio]()
+- 👨‍💻 Most of my projects are available at [my portfolio](https://mahi01agarwal.github.io)
 
 - 📫 Reach me at **agarwalmahima01@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
