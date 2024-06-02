@@ -1,4 +1,4 @@
-
+<h1> About me </h1>
 <p align="justify">
  Hello, I’m Mahima, a curious mind and tech enthusiast currently on my B.Tech journey in Information Technology and Mathematical Innovations at the Cluster Innovation Centre, University of Delhi, India. My passion? Diving deep into the mesmerizing worlds of Artificial Intelligence, Machine Learning, and Data Science. </p>
 
