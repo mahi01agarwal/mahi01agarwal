@@ -1,31 +1,15 @@
-<h1 align="center">Hey! I'm Mahima</h1>
 
-<h2>About Me</h2>
+<p align="justify">
+ Hello, I’m Mahima, a curious mind and tech enthusiast currently on my B.Tech journey in Information Technology and Mathematical Innovations at the Cluster Innovation Centre, University of Delhi, India. My passion? Diving deep into the mesmerizing worlds of Artificial Intelligence, Machine Learning, and Data Science. </p>
 
-- 🌍 Location: Delhi, India
-- 💼 Current Position: Enthusiastic about AI/ML and Open Source.
-- 🎓 Education: Sophomore Student in Information Technology and Mathematics at Cluster Innovation Center,Delhi University
-- 🌱 I'm currently learning: Deep Learning,Web development.
-
-- 👨‍💻 Most of my projects are available at [my portfolio](https://mahi01agarwal.github.io)
-
-- 📫 Reach me at **agarwalmahima01@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahi01agarwal&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi01agarwal&show_icons=true&theme=radical)
-
-<!--
-**mahi01agarwal/mahi01agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p> <ul>
+    <li> 🌱 Currently exploring Deep Learning frameworks</li>
+    <li> 🔭 Working on Machine Learning Algorithms</li>
+    <li> 👯 Looking forward to contribute in Open-Source </li>
+  </ul>
+    </p>
+<p>
+   <h3>📫 Reach me at: </h3> 
+      <a href="https://www.linkedin.com/in/agarwalmahima01/"> <img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahima Agarwal LinkedIn Profile" height="40" width="120" />
+        <a href="https://x.com/Mahima_Agarwal_"> 	<img align ="bottom" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Mahima's Twitter profile" height="40"/></a>
+</p>
