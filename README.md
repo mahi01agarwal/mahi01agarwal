@@ -14,4 +14,4 @@
         <a href="https://x.com/Mahima_Agarwal_"> 	<img align ="bottom" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Mahima's Twitter profile" height="40"/></a>
     </a>
 </p>
-<a href="https://mahi01agarwal.github.io/"><img align="bottom" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white" alt="My Personal Website" height="40" width="120"/>
+<a href="https://mahi01agarwal.github.io/"><img align="bottom" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=My Personal Website&logoColor=white" alt="My Personal Website" height="40" width="120"/>
