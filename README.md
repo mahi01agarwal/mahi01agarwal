@@ -12,4 +12,6 @@
    <h3>📫 Reach me at: </h3> 
       <a href="https://www.linkedin.com/in/agarwalmahima01/"> <img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahima Agarwal LinkedIn Profile" height="40" width="120" />
         <a href="https://x.com/Mahima_Agarwal_"> 	<img align ="bottom" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Mahima's Twitter profile" height="40"/></a>
+    </a>
 </p>
+<a href="https://mahi01agarwal.github.io/"><img align="bottom" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=website&logoColor=white" alt="My Personal Website" height="40" width="120"/>
