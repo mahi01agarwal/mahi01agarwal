@@ -14,4 +14,4 @@
         <a href="https://x.com/Mahima_Agarwal_"> 	<img align ="bottom" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Mahima's Twitter profile" height="40"/></a>
     </a>
 </p>
-<a href="https://mahi01agarwal.github.io/">My Personal Website</a>
+<h3>😃<a href="https://mahi01agarwal.github.io/">My Personal Website</a></h3>
